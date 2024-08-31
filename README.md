@@ -7,6 +7,7 @@ Analyzing the effectiveness of different types of particulate respirators, and f
 - AQI vs fit factor respirator effectiveness with and without fit-test.
 - [ ] Recreate [UW dose modeling](https://www.lni.wa.gov/safety-health/safety-rules/rulemaking-stakeholder-information/_WildFire/Wildfire-Health-Threats.pdf)
 - [ ] Recreate [respirator effectiveness visualization](https://www.lni.wa.gov/safety-health/safety-rules/rulemaking-stakeholder-information/_WildFire/WildfireSmokeStakeholderMeeting8-10-20222.pdf)
+      - The [con2aqi](https://cran.r-project.org/web/packages/con2aqi/index.html) package may come in handy. Though it may not be updated to reflect the 2024 AQI update.
 
 # References
 
